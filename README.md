@@ -135,7 +135,8 @@ END$
 DELIMITER ;
 
 ```
-![Call_inserir_alunos](https://github.com/RaFFaRaFFaR/Universidade/assets/127689567/f6f358fd-6583-4b59-9e89-8387b775d17d)
+![Call_inserir_cursos](https://github.com/RaFFaRaFFaR/Universidade/assets/127689567/37d3724e-6650-4804-9987-d2c49c75cca8)
+
 
 ``` SQL
 
